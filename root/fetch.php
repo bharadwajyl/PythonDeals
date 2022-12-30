@@ -27,7 +27,7 @@ switch($_POST["FormType"]){
         $conn->close();
         break;
     default:
-        die("Not Alloweder");
+        die("Not Allowed");
         break;
 }
 ?>
