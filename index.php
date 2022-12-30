@@ -1,4 +1,5 @@
 <?php
+//Require DB
 require("./root/db.php");
 
 //Fetch cards
